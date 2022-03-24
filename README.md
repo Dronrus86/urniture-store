@@ -1,1 +1,2 @@
-# furniture-store![store](https://user-images.githubusercontent.com/83859600/159955174-a7bc80f1-89c2-4b50-94e8-790b9807d0f9.png)
+# furniture-store!
+![Снимок экрана 2022-03-24 в 18 45 07](https://user-images.githubusercontent.com/83859600/159955590-a0ef1418-e0ae-4280-a4d1-4cbf3b1d1ede.png)
